@@ -2,7 +2,7 @@
 #install package
  by pip install -r requirements.txt
  
-then place a json file inside mapolgroup_task directory 
+then place a json file inside directory 
 and run main.py project  
 
-now check in mapolgroup_task directory csv files are created 
+now check in directory csv files will be are created 
